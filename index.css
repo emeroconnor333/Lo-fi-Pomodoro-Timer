@@ -3,12 +3,13 @@ body {
     font-family: "Yomogi", cursive;
     font-weight: 400;
     font-style: normal;
+    text-align: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
-#bg-initial {
-    background-image: url("public/bg-initial.png");
+#bg-1 {
+    background-image: url("public/bg-1.png");
 }
 #bg-pomo-1 {
     background-image: url("public/bg-pomo-1.png");
@@ -36,7 +37,39 @@ body {
 }
 
 h1 {
-    font-size: 7rem;
+    font-size: xx-large;
+    margin-top: 50px;
+}
+
+p {
+    background-color: transparent;
+}
+
+#countdown {
+
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: "Yomogi", cursive;
+    font-weight: 400;
+    font-style: normal;
+    box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #dedede}
+
+.button:active {
+  background-color: #999;
+  box-shadow: 0 9px #999;
+  transform: translateY(4px);
 }
 
 #madeBy {
