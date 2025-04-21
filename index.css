@@ -1,0 +1,51 @@
+body {
+    color: white;
+    font-family: "Yomogi", cursive;
+    font-weight: 400;
+    font-style: normal;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#bg-initial {
+    background-image: url("public/bg-initial.png");
+}
+#bg-pomo-1 {
+    background-image: url("public/bg-pomo-1.png");
+}
+#bg-break-1 {
+    background-image: url("public/bg-break-1.png");
+}
+#bg-pomo-2 {
+    background-image: url("public/bg-pomo-2.png");
+}
+#bg-break-2 {
+    background-image: url("public/bg-break-2.png");
+}
+#bg-pomo-3 {
+    background-image: url("public/bg-pomo-3.png");
+}
+#bg-break-3 {
+    background-image: url("public/bg-break-3.png");
+}
+#bg-pomo-4 {
+    background-image: url("public/bg-pomo-4.png");
+}
+#bg-long-break {
+    background-image: url("public/bg-long-break.png");
+}
+
+h1 {
+    font-size: 7rem;
+}
+
+#madeBy {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: large;
+}
+
+a {
+    color: white;
+}
