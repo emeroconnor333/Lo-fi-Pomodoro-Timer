@@ -11,29 +11,29 @@ body {
 #bg-1 {
     background-image: url("public/bg-1.png");
 }
-#bg-pomo-1 {
-    background-image: url("public/bg-pomo-1.png");
+#bg-2 {
+    background-image: url("public/bg-2.png");
 }
-#bg-break-1 {
-    background-image: url("public/bg-break-1.png");
+#bg-3 {
+    background-image: url("public/bg-3.png");
 }
-#bg-pomo-2 {
-    background-image: url("public/bg-pomo-2.png");
+#bg-4 {
+    background-image: url("public/bg-4.png");
 }
-#bg-break-2 {
-    background-image: url("public/bg-break-2.png");
+#bg-5 {
+    background-image: url("public/bg-5.png");
 }
-#bg-pomo-3 {
-    background-image: url("public/bg-pomo-3.png");
+#bg-6 {
+    background-image: url("public/bg-6.png");
 }
-#bg-break-3 {
-    background-image: url("public/bg-break-3.png");
+#bg-7 {
+    background-image: url("public/bg-7.png");
 }
-#bg-pomo-4 {
-    background-image: url("public/bg-pomo-4.png");
+#bg-8 {
+    background-image: url("public/bg-8.png");
 }
-#bg-long-break {
-    background-image: url("public/bg-long-break.png");
+#bg-9 {
+    background-image: url("public/bg-9.png");
 }
 
 h1 {
@@ -43,10 +43,6 @@ h1 {
 
 p {
     background-color: transparent;
-}
-
-#countdown {
-
 }
 
 button {
