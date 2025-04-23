@@ -1,3 +1,9 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
 body {
     color: white;
     font-family: "Yomogi", cursive;
@@ -6,6 +12,8 @@ body {
     text-align: center;
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center 30%;
+
 }
 
 #bg-1 {
